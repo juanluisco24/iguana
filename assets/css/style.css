@@ -1,0 +1,115 @@
+body {
+    font-family: raleway;
+    margin: 0;
+    color: #ffffff;
+}
+
+header{
+    text-align: center;
+    background: #000000;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+}
+
+header h1 {
+    font-size: 3.125rem;
+    font-weight: 500;
+    margin: 0;
+}
+
+h1, h2, p {
+    color: #ffffff;
+}
+
+.desc-section p {
+    font-weight: 300;
+    margin: 0.5em auto;
+}
+
+.img1 {
+    width: 100%;
+    height: 90%;
+    font-size: 0;
+}
+
+.img1 img {
+    width: 100%;
+}
+
+.desc-section {
+    background-color: #000000;
+    padding: 4em 8em;
+}
+
+.desc-section * {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.text-block {
+    width: 49%;
+}
+
+.img2 {
+    width: 49%;
+    text-align: right;
+}
+
+.img2 img {
+    width: 24.9em;
+    height: 14.8em;
+}
+
+.icons-section {
+    background-color: #1e1a13;
+    text-align: center;
+    padding: 4.6em 8em;
+}
+
+.icons-section h2 {
+    margin-bottom: 3.125rem;
+    font-size: 2.5rem;
+    font-weight: 500;
+}
+
+.icons div {
+    display: inline-block;
+    vertical-align: middle;
+    margin: auto 3.98em;
+}
+
+.icons h3 {
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 300;
+}
+
+.image-gallery * {
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+    width: 19.75em;
+    height: 12.65em;
+    margin: auto 0.2em;
+}
+
+.image-gallery {
+    padding: 4.56em 9.375em;
+    background-color: #000000;
+}
+
+.footer {
+    background-color: #1e1a13;
+    padding: 2.43rem 18.68rem;
+    font-size: 1.25rem;
+    font-weight: 300;
+}
+
+.footer p {
+    margin: 0;
+}
+
+.footer a {
+    text-decoration: none;
+    color: #ffffff;
+}
